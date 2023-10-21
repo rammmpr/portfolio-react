@@ -1,5 +1,5 @@
 <h2 align="center">
-  portfolio-react Website - v2.0<br/>
+  My Portfolio React Website - v1.0<br/>
   <a href="https://pasharama.vercel.app/" target="_blank">pasharama.tech</a>
 </h2>
 <div align="center">
@@ -24,7 +24,7 @@
     <a href="https://github.com/rammmpr/portfolio-react/issues">Request Feature</a>
 </h3>
 
-## TL;DR
+## RAMM_MPR
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [rammmpr](https://github.com/rammmpr/portfolio-react). Thanks!
 
